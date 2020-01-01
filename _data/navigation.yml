@@ -1,9 +1,17 @@
 main:
-  - title: "Posts"
+  - title: "Qualifications"
+    url: /qualifications/
+  - title: "What to expect"
+    url: /what-to-expect/
+  - title: "Testimonials"
+    url: /testimonials/
+  - title: "Terms & Conditions"
+    url: /terms-and-conditions/
+  - title: "Contact"
+    url: /contact/
+  - title: "Blog"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  # - title: "Categories"
+  #   url: /categories/
+  # - title: "Tags"
+  #   url: /tags/
