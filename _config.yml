@@ -32,8 +32,8 @@ baseurl: ""
 repository: "chattertots/chattertots.github.io"
 twitter:
   username: chattertots
-github:
-  username: chattertots
+#github:
+#  username: chattertots
 facebook:
     username : speechtherapysurrey
     appid: 2220287517999610
@@ -42,8 +42,8 @@ minimal_mistakes_skin: default
 search: true
 incremental: true
 # Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+markdown: "kramdown"
+remote_theme: "mmistakes/minimal-mistakes"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
