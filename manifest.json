@@ -1,7 +1,7 @@
 {
   "name": "Chattertots Speech and Language Therapy",
   "short_name": "Chattertots",
-  "start_url": ".",
+  "start_url": "/index.html",
   "display": "standalone",
   "theme_color": "#30a4ae",
   "background_color": "#30a4ae",

@@ -11,3 +11,16 @@
 <meta name="msapplication-TileColor" content="#30a4ae">
 <meta name="msapplication-config" content="/assets/favicon/browserconfig.xml">
 <meta name="theme-color" content="#30a4ae">
+
+<script  type="text/javascript">
+    if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function () {
+            navigator.serviceWorker.register('/service-worker.js');
+            
+            //navigator.serviceWorker.ready always resolve
+            navigator.serviceWorker.ready.then(function (registration) {
+                console.log('Service worker successfully registered on scope', registration.scope);
+            });
+        });
+    }
+</script>
