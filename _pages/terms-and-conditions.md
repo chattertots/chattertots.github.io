@@ -3,13 +3,6 @@ permalink: /terms-and-conditions/
 title: "Terms and Conditions"
 toc: true
 share: true
-sidebar:
-  - title: "Opening hours"
-    text: > 
-      <b>Monday</b> 9:30-15:30<br/>
-      <b>Tuesday</b> 9:30-15:30<br/>
-      <b>Thursday</b> 9:30-15:30<br/>
-      <b>Friday</b> 9:30-15:30<br/>
 ---
 ## Cancellations
 36 hours notice is required. Sessions cancelled by you after this time, or not attended, will incur full payment. This includes sessions cancelled because of illness although we will reduce this to 50% for the first late cancellation due to illness in a 6 week block. If we are unable to attend a session we will offer a replacement session as soon as possible.

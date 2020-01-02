@@ -3,13 +3,6 @@ permalink: /what-to-expect/
 title: "What to expect"
 toc: true
 share: true
-sidebar:
-  - title: "Opening hours"
-    text: > 
-      <b>Monday</b> 9:30-15:30<br/>
-      <b>Tuesday</b> 9:30-15:30<br/>
-      <b>Thursday</b> 9:30-15:30<br/>
-      <b>Friday</b> 9:30-15:30<br/>
 ---
 ## First Contact/Referral
 I accept referrals from a range of people including parents/carers, Health Visitors, Doctors, Educational staff.
