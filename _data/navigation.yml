@@ -1,16 +1,22 @@
 main:
   - title: "Qualifications"
     url: /qualifications/
+    description: "Our qualifications to treat your child"
   - title: "What to expect"
     url: /what-to-expect/
+    description: "What to expect when we provide therapy for your child"
   - title: "Testimonials"
     url: /testimonials/
+    description: "What parents have said about our work with their children"
   - title: "Terms & Conditions"
     url: /terms-and-conditions/
+    description: "Our terms and conditions for us working successfully together"
   - title: "Contact"
     url: /contact/
+    description: "Chattertots contact details"
   - title: "Blog"
     url: /posts/
+    description: "Articles that we have found or written that we would like to share with you"
   # - title: "Categories"
   #   url: /categories/
   # - title: "Tags"

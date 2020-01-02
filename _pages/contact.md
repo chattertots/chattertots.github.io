@@ -1,8 +1,32 @@
 ---
 permalink: /contact/
 title: "Contact"
+share: true
+sidebar:
+  - title: "Opening hours"
+    text: > 
+      <b>Monday</b> 9:30-15:30<br/>
+      <b>Tuesday</b> 9:30-15:30<br/>
+      <b>Thursday</b> 9:30-15:30<br/>
+      <b>Friday</b> 9:30-15:30<br/>
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+You can phone or email Chattertots with the links in the left hand menu or use our contact form below
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+<form
+  action="https://formspree.io/mgeodkpl"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
+</form>
