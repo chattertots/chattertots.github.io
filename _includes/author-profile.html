@@ -44,7 +44,7 @@
     <ul class="author__urls social-icons">
       {% if author.location %}
         <li itemprop="workLocation" itemscope itemtype="https://schema.org/Place">
-            <a href="{{ author.locationuri }}" rel="nofollow noopener noreferrer" itemprop="url">
+            <a href="{{ author.locationuri }}" rel="nofollow noopener noreferrer" itemprop="url" title="Google Maps">
                 <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ author.location }}</span>
             </a>
         </li>
