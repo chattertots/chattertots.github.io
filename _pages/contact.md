@@ -20,6 +20,6 @@ You can phone or email Chattertots with the links in the left hand menu or use o
   </label>
 
   <!-- your other form fields go here -->
-
+  <input type="hidden" name="_subject" value="Request from website" />
   <button type="submit">Send</button>
 </form>

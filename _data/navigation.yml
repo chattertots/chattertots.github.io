@@ -1,4 +1,6 @@
 main:
+  - title: "About"
+    url: /about/
   - title: "Qualifications"
     url: /qualifications/
     description: "Our qualifications to treat your child"
