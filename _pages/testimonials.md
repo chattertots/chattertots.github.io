@@ -2,6 +2,13 @@
 permalink: /testimonials/
 title: "Testimonials"
 share: true
+author: Louise Hibbert
+header:
+  overlay_color: #000
+  overlay_filter: 0.1
+  overlay_image: /assets/images/page-features/testimonials-abstract.jpg
+  caption: "Photo credit: [**Steve Johnson**](https://www.pexels.com/@steve)"
+
 ---
 
 > "Thank you for everything you have done for H. The change we have seen is amazing and we cannot thank you enough!"

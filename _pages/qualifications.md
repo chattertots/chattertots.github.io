@@ -3,8 +3,13 @@ permalink: /qualifications/
 title: "Qualifications"
 toc: true
 share: true
+author: Louise Hibbert
+header:
+  overlay_color: #000
+  overlay_filter: 0.1
+  overlay_image: /assets/images/page-features/qualifications-abstract.jpg
+  caption: "Photo credit: [**Steve Johnson**](https://www.pexels.com/@steve)"
 ---
-
 ## Education
 
 **I completed my undergraduate degree in Linguistics in 1997**.  
@@ -18,6 +23,7 @@ I have worked in community clinics gaining experience in a broad range of speech
 ## Training
 
 **Since qualifying I have continued to develop my skills in accordance with requirements set out by the Royal College of Speech and Language Therapists and the Health Care Professionals Council.**
+
 I have specific training in the following therapy techniques:
 
 - Parent Child Interaction Therapy (PCI)

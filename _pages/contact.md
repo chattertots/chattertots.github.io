@@ -1,7 +1,13 @@
 ---
 permalink: /contact/
-title: "Contact"
+title: Contact
 share: true
+author: Louise Hibbert
+header:
+  overlay_color: #000
+  overlay_filter: 0.1
+  overlay_image: /assets/images/page-features/contact-abstract.jpg
+  caption: "Photo credit: [**Steve Johnson**](https://www.pexels.com/@steve)"
 ---
 
 You can phone or email Chattertots with the links in the left hand menu or use our contact form below

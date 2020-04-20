@@ -3,6 +3,12 @@ permalink: /what-to-expect/
 title: "What to expect"
 toc: true
 share: true
+author: Louise Hibbert
+header:
+  overlay_color: #000
+  overlay_filter: 0.1
+  overlay_image: /assets/images/page-features/what-to-expect-abstract.jpg
+  caption: "Photo credit: [**Steve Johnson**](https://www.pexels.com/@steve)"
 ---
 ## First Contact/Referral
 

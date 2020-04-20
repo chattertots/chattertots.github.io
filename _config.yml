@@ -25,7 +25,7 @@ title_separator: " - "
 #subtitle: "Speech and Language Therapy"
 #logo: "/assets/images/chattertots-faces-logo.png"
 email: chattertots@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until "url:"
   Chattertots is run by Louise Hibbert, a fully qualified Speech and Language Therapist who specialises in working with children aged approximately 2 to 8 years.
 url: https://chattertots.github.io
 baseurl: ""
@@ -38,7 +38,7 @@ facebook:
     username : speechtherapysurrey
     appid: 2220287517999610
 og_image: "/assets/images/louise-hibbert.jpg"
-minimal_mistakes_skin: default
+minimal_mistakes_skin: mint
 search: true
 incremental: true
 # Build settings
@@ -88,17 +88,8 @@ whitelist:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "Louise Hibbert"
-  avatar : "/assets/images/louise-hibbert.jpg"
-  bio    : "BA(Hons), MMedSci, MRCSLT, MASLTIP"
-  location : "Hydestile, Surrey"
-  locationuri: "https://www.google.co.uk/maps/place/Chattertots+Speech+%26+Language+Therapy/@51.1562199,-0.6155851,17z/data=!3m1!4b1!4m5!3m4!1s0x4875d1de8417fb71:0xeeba66052546eaa8!8m2!3d51.1562166!4d-0.6133964"
-  email : "chattertots@gmail.com"
-  telephone : "+441483389949"
-  contactcard: "/assets/chattertots.vcf"
-  facebook : "speechtherapysurrey"
-  linkedin : "louise-hibbert-a1775134"
+
+
 footer:
   links:
     - label: "Phone"
@@ -147,6 +138,16 @@ social:
     - "https://www.facebook.com/speechtherapysurrey/"
     - "https://www.linkedin.com/company/chattertots-speech-&-language-therapy"
 
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
 defaults:
   # _pages
   - scope:
@@ -161,11 +162,20 @@ defaults:
       type: posts
     values:
       layout: single
+      author: Louise Hibbert
       author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
+  - scope:
+      path:            "google19375e3e49844e36.html"
+    values:
+      sitemap:         false
+  - scope:
+      path:            "assets/favicon/html_code.html"
+    values:
+      sitemap:         false      
 
 category_archive:
   type: liquid
@@ -174,3 +184,4 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
