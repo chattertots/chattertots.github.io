@@ -28,7 +28,7 @@ feature_row_covid:
       If you’re concerned about your child’s progress, particularly with the summer and new school year looming, don’t feel you can’t do anything about it until this is well and truly over. Get in touch and we’ll arrange an assessment via 'telepractice'.
     url: "/telepractice/"
 feature_row_who_what_why:
-  - image_path: /assets/images/home-who.jpg
+  - image_path: /assets/images/hello.jpg
     alt: "Who is Chattertots?"
     title: "Who ?"
     excerpt: >
@@ -48,7 +48,7 @@ feature_row_who_what_why:
     excerpt: >
       What to expect and what can I offer ?
     url: "/what-to-expect/"
-  - image_path: /assets/images/home-why.jpg
+  - image_path: /assets/images/why-me.jpg
     alt: "Why Chattertots?"
     title: "Why ?"
     excerpt: >

@@ -19,6 +19,7 @@ lang_direction: "ltr"
 language: "en"
 encoding: "utf-8"
 masthead_title: "Chattertots"
+#logo: "/assets/images/chattertotsLogo_Orig.png"
 title: "Chattertots"
 title_separator: " - "
 
@@ -32,13 +33,13 @@ baseurl: ""
 repository: "chattertots/chattertots.github.io"
 twitter:
   username: chattertots
-#github:
-#  username: chattertots
+github:
+  username: DanHibbert
 facebook:
     username : speechtherapysurrey
     appid: 2220287517999610
 og_image: "/assets/images/louise-hibbert.jpg"
-minimal_mistakes_skin: mint
+minimal_mistakes_skin: plum
 search: true
 incremental: true
 # Build settings
