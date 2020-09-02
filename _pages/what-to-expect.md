@@ -7,7 +7,7 @@ author: Louise Hibbert
 header:
   overlay_color: #000
   overlay_filter: 0.1
-  overlay_image: /assets/images/page-features/what-to-expect-abstract.jpg
+  overlay_image: /assets/images/page-features/webp/60/what-to-expect-abstract.webp
   caption: "Photo credit: [**Steve Johnson**](https://www.pexels.com/@steve)"
 ---
 ## First Contact/Referral

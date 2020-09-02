@@ -1,12 +1,14 @@
 ---
-permalink: /testimonials/
-title: "Testimonials"
-share: true
-author: Louise Hibbert
+permalink       : /testimonials/
+title           : "Testimonials"
+share           : true
+author          : Louise Hibbert
+author_profile  : true
+layout          :     single
 header:
   overlay_color: #000
   overlay_filter: 0.1
-  overlay_image: /assets/images/page-features/testimonials-abstract.jpg
+  overlay_image: /assets/images/page-features/webp/60/testimonials-abstract.webp
   caption: "Photo credit: [**Steve Johnson**](https://www.pexels.com/@steve)"
 
 ---

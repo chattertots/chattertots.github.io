@@ -6,7 +6,7 @@ author: Louise Hibbert
 header:
   overlay_color: #000
   overlay_filter: 0.1
-  overlay_image: /assets/images/page-features/telepractice-abstract.jpg
+  overlay_image: /assets/images/page-features/webp/60/telepractice-abstract.webp
   caption: "Photo credit: [**Steve Johnson**](https://www.pexels.com/@steve)"
 ---
 We are offering a FREE face-to-face follow up session for all new telepractice assessments booked during this time.

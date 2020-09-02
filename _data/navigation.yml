@@ -1,12 +1,14 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Qualifications"
-    url: /qualifications/
-    description: "Our qualifications to treat your child"
-  - title: "What to expect"
-    url: /what-to-expect/
-    description: "What to expect when we provide therapy for your child"
+    description : "About Chattertots"
+    sublinks :
+      - title: "Qualifications"
+        url: /qualifications/
+        description: "Our qualifications to treat your child"
+      - title: "What to expect"
+        url: /what-to-expect/
+        description: "What to expect when we provide therapy for your child"
   - title: "Testimonials"
     url: /testimonials/
     description: "What parents have said about our work with their children"
