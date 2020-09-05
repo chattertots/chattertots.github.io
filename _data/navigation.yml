@@ -1,27 +1,99 @@
 main:
   - title: "About"
-    url: /about/
-    description : "About Chattertots"
-    sublinks :
-      - title: "Qualifications"
-        url: /qualifications/
-        description: "Our qualifications to treat your child"
-      - title: "What to expect"
-        url: /what-to-expect/
-        description: "What to expect when we provide therapy for your child"
+    sublinks:
+    - title: "Chattertots"
+      url: /about/
+      description: "About Chattertots"
+    - title: "Louise"
+      url: /louise/
+      description: "Louise Hibbert bio"
+    - title: "Alison"
+      url: /alison/
+      description: "Alison Taylor bio"
+    - title: "Steven"
+      url: /steven/
+      description: "Steven McNicol bio"
+  - title: "What to expect"
+    sublinks:
+    - title: Referals and assessments  
+      url: /what-to-expect/
+      description: "What to expect when we provide therapy for your child"
+    - title: Teletherapy 
+      url: /teletherapy/
+      description: "Speech Therapy via video conferencing"
+    - title: Gallery  
+      url: /gallery/
+      description: "Chattertots at work!"
+  - title: "Specialisms"
+    url: /specialisms/
+    description: "Additional qualifications and training"
+  - title: "Fees"
+    url: /fees/
+    description: "Fees for our work"
   - title: "Testimonials"
     url: /testimonials/
     description: "What parents have said about our work with their children"
-  - title: "Terms & Conditions"
-    url: /terms-and-conditions/
-    description: "Our terms and conditions for us working successfully together"
-  - title: "Contact"
-    url: /contact/
-    description: "Chattertots contact details"
   - title: "Blog"
     url: /posts/
     description: "Articles that we have found or written that we would like to share with you"
-  # - title: "Categories"
-  #   url: /categories/
-  # - title: "Tags"
-  #   url: /tags/
+standardsidenav:
+  - title: Contact
+    children:
+      - title : Contact form
+        url: /contact
+        description : "Contact Chattertots via our online form"
+        icon: "fas fa-fw fa-keyboard"
+      - title : Email
+        url: mailto:chattertots@gmail.com
+        description : "Email Chattertots"
+        icon: "fas fa-fw fa-envelope"
+      - title : Phone
+        url: tel:+441483389949
+        description : "Call Chattertots"
+        icon: "fas fa-fw fa-phone"
+      - title : Find us
+        url: https://www.google.com/maps/place/Chattertots+Speech+%26+Language+Therapy/@51.1562199,-0.6155851,17z/data=!3m1!4b1!4m5!3m4!1s0x4875d1de8417fb71:0xeeba66052546eaa8!8m2!3d51.1562166!4d-0.6133964?hl=en
+        description : "Find Chattertots on Google maps"
+        icon: "fas fa-fw fa-map-pin"
+  - title: People
+    children:
+      - title: "Louise Hibbert"
+        url: /louise/
+        description : "Information about Louise Hibbert"
+        icon: "fas fa-fw fa-user"
+      - title: "Alison Taylor"
+        url: /alison/
+        description: "Information about Alison Taylor"
+        icon: "fas fa-fw fa-user"
+      - title: "Steven McNicol"
+        url: /steven/
+        description: "Information about Steven McNicol"
+        icon: "fas fa-fw fa-user"
+  - title: Social
+    children:
+      - title: "Twitter"
+        icon: "fab fa-fw fa-twitter"
+        url: "https://twitter.com/chattertots"
+        description : "Find Chattertots on Twitter"
+      - title: "Facebook"
+        icon: "fab fa-fw fa-facebook"
+        url: "https://facebook.com/speechtherapysurrey"
+        description : "Find Chattertots on Facebook"
+      - title: "LinkedIn"
+        icon: "fab fa-fw fa-linkedin"
+        description : "Find Chattertots on Linked In"
+        url: "https://www.linkedin.com/company/chattertots-speech-&-language-therapy"
+  - title: Information
+    children:
+      - title : Terms and conditions
+        url: /terms-and-conditions
+        description : "Our terms and conditions"
+        icon: "fas fa-fw fa-info"
+      - title : Privacy policy
+        url: /privacy
+        description : "Our privacy policy"
+        icon: "fas fa-fw fa-lock"
+      - title : Fees
+        url: /fees
+        description : "Fees for our work"
+        icon: "fas fa-fw fa-money-bill-wave"

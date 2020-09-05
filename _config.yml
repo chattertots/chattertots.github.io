@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-GB"
 title                    : "Chattertots"
 title_separator          : "-"
-subtitle                 : "Speech and Language Therapy"
+subtitle                 : "Speech and Language Therapy in Surrey"
 name                     : "Louise Hibbert"
 description              : "Chattertots is run by Louise Hibbert, a fully qualified Speech and Language Therapist who specialises in working with children aged approximately 2 to 11 years."
 url                      : "https://www.chattertots.net"
@@ -26,12 +26,13 @@ baseurl                  : ""
 repository               : "chattertots/chattertots.github.io"
 # teaser                   : #path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/webp/chattertots-logo.webp"
-# masthead_title           : " "
+masthead_title           : " "
+masthead_subtitle        : "Speech and Language Therapy in Surrey"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: Europe/London
+paginate                 : 5 # amount of posts to show
+paginate_path            : /page:num/
+timezone                 : Europe/London
 
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -52,19 +53,19 @@ comments:
 reCaptcha:
   siteKey                :
   secret                 :
-atom_feed:
-  path                   : feed.xml # blank (default) uses feed.xml
+#atom_feed:
+#  path                   : /feed.xml # blank (default) uses feed.xml
 search                   : true #, false (default)
 search_full_content      : false # true, false (default)
-search_provider          : lunr (default), algolia, google
+search_provider          : google #(default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
-  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
-  instant_search         : # false (default), true
+  search_engine_id       : 288810232afb3ad22
+  instant_search         : false # false (default), true
 
 # SEO Related
 google_site_verification : jRfh9RtqTNgVBwnNuu-JTT1mC05WQPi8cirddQ5p6J0
@@ -103,7 +104,7 @@ analytics:
 author:
   name             : "Louise Hibbert"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "BA(Hons), MMedSci, MRCSLT, MASLTIP"
   location         : "Hydestile"
   email            : chattertots@gmail.com
   links:
@@ -181,6 +182,8 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - /IFDROPDOWNNAV
+  - /blogexamples
 keep_files:
   - .git
   - .svn
@@ -296,16 +299,5 @@ compress_html:
     envs: development
 
 
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+after_footer_scripts :
+  - https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate

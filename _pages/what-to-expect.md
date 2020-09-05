@@ -1,18 +1,22 @@
 ---
-permalink: /what-to-expect/
-title: "What to expect"
-toc: true
-share: true
-author: Louise Hibbert
-header:
-  overlay_color: #000
-  overlay_filter: 0.1
-  overlay_image: /assets/images/page-features/webp/60/what-to-expect-abstract.webp
-  caption: "Photo credit: [**Steve Johnson**](https://www.pexels.com/@steve)"
+permalink       : /what-to-expect/
+title           : "What to expect"
+toc             : true
+share           : false
+author          : Chattertots
+author_profile  : false
+layout          : single
+sidebar:
+  nav: standardsidenav
+#header:
+#  overlay_color: #000
+#  overlay_filter: 0.1
+#  overlay_image: /assets/images/page-features/webp/60/what-to-expect-abstract.webp
+#  caption: "Photo credit: [**Steve Johnson**](https://www.pexels.com/@steve)"
 ---
 ## First Contact/Referral
 
-Referrals can come from a range of people including parents/carers, Health Visitors, Doctors, Educational staff.  However by far the most common course of action is that parents contact me themselves either because they have been concerned, or because somebody has advised them to seek a Speech and Language Therapist.   Often parents contact me when they’re not sure if they need to be worried or not.  That way we can have a chat about it and decide whether an assessment right now sounds like a good idea.  Sometimes I will advise them to wait a bit and give them some information for now.  There is no charge for this.  
+Referrals can come from a range of people including parents/carers, Health Visitors, Doctors, Educational staff.  However by far the most common course of action is that parents contact me themselves either because they have been concerned, or because somebody has advised them to seek a Speech and Language Therapist.   Often parents contact me when they’re not sure if they need to be worried or not.  That way we can have a chat about it and decide whether an assessment right now sounds like a good idea.  Sometimes I will advise them to wait a bit and give them some information for now.  There is no charge for this. 
 
 ## Assessment
 

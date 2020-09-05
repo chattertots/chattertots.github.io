@@ -1,14 +1,18 @@
 ---
-permalink: /terms-and-conditions/
-title: Terms and Conditions
-toc: true
-share: true
-author: Louise Hibbert
-header:
-  overlay_color: #000
-  overlay_filter: 0.1
-  overlay_image: /assets/images/page-features/webp/60/terms-and-conditions-abstract.webp
-  caption: "Photo credit: [**Steve Johnson**](https://www.pexels.com/@steve)"
+permalink       : /terms-and-conditions/
+title           : Terms and Conditions
+toc             : true
+share           : false
+author          : Chattertots
+author_profile  : false
+layout          : single
+sidebar:
+  nav: standardsidenav
+#header:
+#  overlay_color: #000
+#  overlay_filter: 0.1
+#  overlay_image: /assets/images/page-features/webp/60/terms-and-conditions-abstract.webp
+#  caption: "Photo credit: [**Steve Johnson**](https://www.pexels.com/@steve)"
 ---
 
 ## Contracts

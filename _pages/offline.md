@@ -1,8 +1,9 @@
 ---
-layout: splash
-title: Chattertots Speech & Language Therapy
-permalink: /
-excerpt: >
+layout      : splash
+title       : Chattertots Speech & Language Therapy
+permalink   : offline.html
+sitemap     : false
+excerpt     : >
   <br/>
   Fast, flexible, fun.
   <br/>
@@ -25,13 +26,14 @@ header:
 feature_row_covid:
   - title: "COVID-19 - we are still operating!"
     excerpt: >
-      If you’re concerned about your child’s progress, particularly with the  new school year looming, don’t feel you can’t do anything about it until this is well and truly over. Get in touch and we’ll arrange an assessment via 'teletherapy'.
-    url: "/teletherapy/"
+      If you’re concerned about your child’s progress, particularly with the new school year looming, don’t feel you can’t do anything about it until this is well and truly over. Get in touch and we’ll arrange an assessment via 'teletherapy'.
+    url: "/telepractice/"
 feature_row_who_what_why:
   - image_path: /assets/images/webp/home-who.webp
     alt: "Who is Chattertots?"
     title: "Who ?"
     excerpt: >
+
       Chattertots is run by Louise Hibbert, a fully qualified Speech and Language Therapist who specialises in working with children aged approximately 2 to 8 years.
 
 

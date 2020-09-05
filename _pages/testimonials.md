@@ -1,16 +1,17 @@
 ---
 permalink       : /testimonials/
 title           : "Testimonials"
-share           : true
-author          : Louise Hibbert
-author_profile  : true
-layout          :     single
-header:
-  overlay_color: #000
-  overlay_filter: 0.1
-  overlay_image: /assets/images/page-features/webp/60/testimonials-abstract.webp
-  caption: "Photo credit: [**Steve Johnson**](https://www.pexels.com/@steve)"
-
+share           : false
+author          : Chattertots
+author_profile  : false
+layout          : single
+sidebar:
+  nav: standardsidenav
+#header:
+#  overlay_color: #000
+#  overlay_filter: 0.1
+#  overlay_image: /assets/images/page-features/webp/60/testimonials-abstract.webp
+#  caption: "Photo credit: [**Steve Johnson**](https://www.pexels.com/@steve)"
 ---
 
 > "Thank you for everything you have done for H. The change we have seen is amazing and we cannot thank you enough!"
