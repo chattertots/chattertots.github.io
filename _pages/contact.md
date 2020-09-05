@@ -5,6 +5,7 @@ share           : false
 author          : Chattertots
 author_profile  : false
 layout          : single
+classes         : wide
 sidebar:
   nav: standardsidenav
 #header:

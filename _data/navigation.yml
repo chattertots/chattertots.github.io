@@ -1,23 +1,21 @@
 main:
   - title: "About"
+    url: /about/
+    description: "About Chattertots"
     sublinks:
-    - title: "Chattertots"
-      url: /about/
-      description: "About Chattertots"
     - title: "Louise"
       url: /louise/
       description: "Louise Hibbert bio"
     - title: "Alison"
       url: /alison/
       description: "Alison Taylor bio"
-    - title: "Steven"
-      url: /steven/
-      description: "Steven McNicol bio"
+    - title: "Stephen"
+      url: /Stephen/
+      description: "Stephen McNicol bio"
   - title: "What to expect"
+    url: /what-to-expect/
+    description: "What to expect when we provide therapy for your child"
     sublinks:
-    - title: Referals and assessments  
-      url: /what-to-expect/
-      description: "What to expect when we provide therapy for your child"
     - title: Teletherapy 
       url: /teletherapy/
       description: "Speech Therapy via video conferencing"
@@ -65,9 +63,9 @@ standardsidenav:
         url: /alison/
         description: "Information about Alison Taylor"
         icon: "fas fa-fw fa-user"
-      - title: "Steven McNicol"
-        url: /steven/
-        description: "Information about Steven McNicol"
+      - title: "Stephen McNicol"
+        url: /Stephen/
+        description: "Information about Stephen McNicol"
         icon: "fas fa-fw fa-user"
   - title: Social
     children:

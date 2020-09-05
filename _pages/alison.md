@@ -1,12 +1,11 @@
 ---
 permalink       : /alison/
-title           : "Alison Taylor"
+title           : "More about Alison"
 share           : false
-author          : Chattertots
-author_profile  : false
+author          : Alison Taylor
+author_profile  : true
 layout          : single
-sidebar:
-  nav: standardsidenav
+classes         : wide
 #header:
 #  overlay_color: #000
 #  overlay_filter: 0.1

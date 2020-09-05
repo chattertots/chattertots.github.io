@@ -1,8 +1,8 @@
 ---
-permalink       : /steven/
-title           : "Steven McNicol"
+permalink       : /Stephen/
+title           : "More about Stephen"
 share           : false
-author          : Steven McNicol
+author          : Stephen McNicol
 author_profile  : true
 layout          : single
 #header:
