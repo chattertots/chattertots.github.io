@@ -6,13 +6,12 @@ author          : Chattertots
 author_profile  : false
 layout          : single
 classes         : wide
-sidebar:
-  nav: standardsidenav
-#header:
-#  overlay_color: #000
+#sidebar:
+# nav: smallsidenav
+header:
+  overlay_color: "#C2DD5B"
 #  overlay_filter: 0.1
-#  overlay_image: /assets/images/page-features/webp/60/testimonials-abstract.webp
-#  caption: "Photo credit: [**Steve Johnson**](https://www.pexels.com/@steve)"
+#  overlay_image: /assets/images/page-features/webp/60/about-why-me3.webp
 ---
 
 > "Thank you for everything you have done for H. The change we have seen is amazing and we cannot thank you enough!"

@@ -6,13 +6,15 @@ author          : Louise Hibbert
 author_profile  : true
 layout          : single
 classes         : wide
+header:
+  overlay_color: "#C2DD5B"
 #header:
 #  overlay_color: #000
 #  overlay_filter: 0.1
 #  overlay_image: /assets/images/page-features/webp/60/about-abstract.webp
 #  caption: "Photo credit: [**Steve Johnson**](https://www.pexels.com/@steve)"
 ---
-Louise is a fully qualified, specialist Speech and Language Therapist with over 18 years experience.  She worked for several years living in London and working for the NHS running busy early years community clinics, in Special Schools and mainstream units.  She chose to set up Chattertots Speech and Language Therapy in 2006 when she and her husband moved from London to Godalming and she was expecting her first child.  Another child followed a couple of years later and Louise has been able to manage following her career whilst fitting it around being there for her small (and now not quite so small!) children.  At the beginning this was just one day a week, now it is virtually a full working week with additional team members Alison and Stephen.
+Louise is a fully qualified, specialist Speech and Language Therapist with 20 years experience.  
 
 ## Education
 

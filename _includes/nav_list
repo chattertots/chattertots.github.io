@@ -9,7 +9,7 @@
       <li>
         {% if nav.url %}
         <a {%if nav.description %}title="{{nav.description}}" {% endif %}  href="{{ nav.url | relative_url }}"><span class="nav__sub-title">{% if child.icon %}<i class="{{ child.icon | default: 'fas fa-link' }}" aria-hidden="true"></i>{% endif %} {{ nav.title }}</span></a>
-        {% else %}
+        {% else if nav.title %}
           <span class="nav__sub-title">{% if child.icon %}<i class="{{ child.icon | default: 'fas fa-link' }}" aria-hidden="true"></i>{% endif %} {{ nav.title }}</span>
         {% endif %}
 

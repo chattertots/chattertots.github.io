@@ -6,6 +6,8 @@ author          : Alison Taylor
 author_profile  : true
 layout          : single
 classes         : wide
+header:
+  overlay_color: "#C2DD5B"
 #header:
 #  overlay_color: #000
 #  overlay_filter: 0.1

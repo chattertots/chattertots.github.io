@@ -1,6 +1,6 @@
 ---
-permalink       : /contact/
-title           : Contact
+permalink       : /privacy-request/
+title           : Personal data request
 share           : false
 author          : Chattertots
 author_profile  : false
@@ -17,9 +17,7 @@ header:
 #  caption: "Photo credit: [**Steve Johnson**](https://www.pexels.com/@steve)"
 ---
 
-You can phone or email Chattertots with the links in the left hand menu or use our contact form below
-
-Please don't include any sensitive information that you don't want to share with Chattertots.
+Please use this form to request to view/edit/delete personal information that Chattertots may hold
 
 
 <form action="https://formspree.io/mgeodkpl" method="POST">
@@ -42,7 +40,7 @@ Please don't include any sensitive information that you don't want to share with
 
   <!-- your other form fields go here -->
   <input type="hidden" name="_next" value="/thanks" />
-  <input type="hidden" name="_subject" value="Request from website" />
+  <input type="hidden" name="_subject" value="Personal data request" />
   <input type="text" name="_gotcha" style="display: none;" val=""/>
   <button type="submit" class="btn btn--primary">Send</button>
 </form>

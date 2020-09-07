@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-GB"
@@ -130,15 +130,21 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Terms"
+      icon: "fas fa-fw fa-info"
+      url: "/terms-and-conditions"
+    - label: "Privacy"
+      icon: "fas fa-fw fa-lock"
+      url: "/privacy"
     - label: "Phone"
       icon: "fas fa-fw fa-phone"
       url: "tel:+441483389949"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:chattertots@gmail.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/chattertots"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter"
+    #   url: "https://twitter.com/chattertots"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://facebook.com/speechtherapysurrey"

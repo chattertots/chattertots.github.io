@@ -7,8 +7,10 @@ author          : Chattertots
 author_profile  : false
 layout          : single
 #classes         : wide
-sidebar:
-  nav: standardsidenav
+#sidebar:
+#  nav: standardsidenav
+header:
+  overlay_color: "#C2DD5B"
 #header:
 #  overlay_color: #000
 #  overlay_filter: 0.1
@@ -21,7 +23,7 @@ These are techniques or services that can only be used by a Speech and Language 
 
 ## PROMPT 
 
-I was lucky enough to be part of the first group of Speech and Language Therapists to become PROMPT trained in the UK.  I currently hold a level 2 qualification called ‘Bridging’ which means I have attended the basic training and also the more advanced training.   
+[Louise](/louise) was lucky enough to be part of the first group of Speech and Language Therapists to become PROMPT trained in the UK.  I currently hold a level 2 qualification called ‘Bridging’ which means I have attended the basic training and also the more advanced training.   
 
 
 PROMPT stands for Prompts for Restructuring Oral Muscular Phonetic Targets and on the surface is a ‘hands-on’ approach in which we touch your child’s face and upper body using certain cues to help to shape and move their muscles for speech and to provide kinetic feedback to their sensory/muscular system.  The PROMPT system is far more than just a system of tactile cues though and involves a particular way of observing and analysing your child’s speech production and motor control.  It is also takes into account all areas of their developing system and how this is contributing to their speech and language.  You can find more information at the [Prompt Institute website](https://promptinstitute.com/page/Families_What_is_PROMPT)

@@ -7,7 +7,9 @@ author_profile  : false
 layout          : single
 classes         : wide
 sidebar:
-  nav: standardsidenav
+  nav: whattoexpectsidenav
+header:
+  overlay_color: "#C2DD5B"
 #header:
 #  overlay_color: #000
 #  overlay_filter: 0.1
