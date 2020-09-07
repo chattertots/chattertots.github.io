@@ -7,7 +7,7 @@ author          : Chattertots
 author_profile  : false
 layout          : single
 sidebar:
-  nav: standardsidenav
+  nav: termssidenav
 header:
   overlay_color: "#C2DD5B"
 #header:
@@ -16,8 +16,6 @@ header:
 #  overlay_image: /assets/images/page-features/webp/60/terms-and-conditions-abstract.webp
 #  caption: "Photo credit: [**Steve Johnson**](https://www.pexels.com/@steve)"
 ---
-
-## Contracts
 
 If you verbally commit to a speech and language therapy sessions, you are agreeing to accept the terms and conditions below. Please read them carefully and do not hesitate to ask any questions that may arise from them.
 

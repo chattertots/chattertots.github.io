@@ -5,6 +5,7 @@ share           : false
 author          : Stephen McNicol
 author_profile  : true
 layout          : single
+classes         : wide
 header:
   overlay_color: "#C2DD5B"
 #header:

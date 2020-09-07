@@ -27,133 +27,87 @@ main:
   #   description: "Articles that we have found or written that we would like to share with you"
 
 aboutsidenav:
-  - title: More
-    children:
-    - title: "Louise Hibbert"
-      url: /louise/
-      description : "Information about Louise Hibbert"
-      icon: "fas fa-fw fa-user"
-    - title: "Alison Taylor"
-      url: /alison/
-      description: "Information about Alison Taylor"
-      icon: "fas fa-fw fa-user"
-    - title: "Stephen McNicol"
-      url: /Stephen/
-      description: "Information about Stephen McNicol"
-      icon: "fas fa-fw fa-user"
-    - title : Call Chattertots
-      url: tel:+441483389949
-      description : "Call Chattertots"
-      icon: "fas fa-fw fa-phone"
+  - title: "Louise Hibbert"
+    url: /louise/
+    description : "Information about Louise Hibbert"
+    icon: "fas fa-fw fa-user"
+  - title: "Alison Taylor"
+    url: /alison/
+    description: "Information about Alison Taylor"
+    icon: "fas fa-fw fa-user"
+  - title: "Stephen McNicol"
+    url: /Stephen/
+    description: "Information about Stephen McNicol"
+    icon: "fas fa-fw fa-user"
+  - title : Call Chattertots
+    url: tel:+441483389949
+    description : "Call Chattertots"
+    icon: "fas fa-fw fa-phone"
 
 whattoexpectsidenav:
-  - title: More
-    children:
-    - title: Covid-19
-      url: /covid/
-      description: "Therapy during the pandemic"
-    - title: Teletherapy 
-      url: /teletherapy/
-      description: "Speech Therapy via video conferencing"
-    - title: Gallery  
-      url: /gallery/
-      description: "Chattertots at work!"
-    - title : Call Chattertots
-      url: tel:+441483389949
-      description : "Call Chattertots"
-      icon: "fas fa-fw fa-phone"
+  - title: Covid-19
+    url: /covid/
+    description: "Therapy during the pandemic"
+    icon: "fas fa-fw fa-pump-medical"
+  - title: Teletherapy 
+    url: /teletherapy/
+    description: "Speech Therapy via video conferencing"
+    icon: "fas fa-fw fa-chalkboard-teacher"
+  - title: Gallery  
+    url: /gallery/
+    description: "Chattertots at work!"
+    icon: "fas fa-fw fa-image"
+  - title : Call Chattertots
+    url: tel:+441483389949
+    description : "Call Chattertots"
+    icon: "fas fa-fw fa-phone"
 
 feessidenav:
-  - title : More
-    children:
-    - title: Terms and Conditions
-      url: /terms-and-conditions
-      description : "Terms and conditions"
-      icon: "fas fa-fw fa-info"
-    - title : Privacy policy
-      url: /privacy
-      description : "Our privacy policy"
-      icon: "fas fa-fw fa-lock"
-    - title : Call Chattertots
-      url: tel:+441483389949
-      description : "Call Chattertots"
-      icon: "fas fa-fw fa-phone"
+  - title: Terms and Conditions
+    url: /terms-and-conditions
+    description : "Terms and conditions"
+    icon: "fas fa-fw fa-info"
+  - title : Privacy policy
+    url: /privacy
+    description : "Our privacy policy"
+    icon: "fas fa-fw fa-lock"
+  - title : Call Chattertots
+    url: tel:+441483389949
+    description : "Call Chattertots"
+    icon: "fas fa-fw fa-phone"
+
+termssidenav:
+  - title : Privacy policy
+    url: /privacy
+    description : "Our privacy policy"
+    icon: "fas fa-fw fa-lock"
+  - title : Call Chattertots
+    url: tel:+441483389949
+    description : "Call Chattertots"
+    icon: "fas fa-fw fa-phone"
+    
+privacysidenav:
+  - title: Terms and Conditions
+    url: /terms-and-conditions
+    description : "Terms and conditions"
+    icon: "fas fa-fw fa-info"
+  - title : Call Chattertots
+    url: tel:+441483389949
+    description : "Call Chattertots"
+    icon: "fas fa-fw fa-phone"
 
 
-standardsidenav:
-  - title: Contact
-    children:
-      - title : Contact form
-        url: /contact
-        description : "Contact Chattertots via our online form"
-        icon: "fas fa-fw fa-keyboard"
-      - title : Email
-        url: mailto:chattertots@gmail.com
-        description : "Email Chattertots"
-        icon: "fas fa-fw fa-envelope"
-      - title : Phone
-        url: tel:+441483389949
-        description : "Call Chattertots"
-        icon: "fas fa-fw fa-phone"
-      - title : Find us
-        url: https://www.google.com/maps/place/Chattertots+Speech+%26+Language+Therapy/@51.1562199,-0.6155851,17z/data=!3m1!4b1!4m5!3m4!1s0x4875d1de8417fb71:0xeeba66052546eaa8!8m2!3d51.1562166!4d-0.6133964?hl=en
-        description : "Find Chattertots on Google maps"
-        icon: "fas fa-fw fa-map-pin"
-  - title: People
-    children:
-      - title: "Louise Hibbert"
-        url: /louise/
-        description : "Information about Louise Hibbert"
-        icon: "fas fa-fw fa-user"
-      - title: "Alison Taylor"
-        url: /alison/
-        description: "Information about Alison Taylor"
-        icon: "fas fa-fw fa-user"
-      - title: "Stephen McNicol"
-        url: /Stephen/
-        description: "Information about Stephen McNicol"
-        icon: "fas fa-fw fa-user"
-  - title: Social
-    children:
-      - title: "Twitter"
-        icon: "fab fa-fw fa-twitter"
-        url: "https://twitter.com/chattertots"
-        description : "Find Chattertots on Twitter"
-      - title: "Facebook"
-        icon: "fab fa-fw fa-facebook"
-        url: "https://facebook.com/speechtherapysurrey"
-        description : "Find Chattertots on Facebook"
-      - title: "LinkedIn"
-        icon: "fab fa-fw fa-linkedin"
-        description : "Find Chattertots on Linked In"
-        url: "https://www.linkedin.com/company/chattertots-speech-&-language-therapy"
-  - title: Information
-    children:
-      - title : Terms and conditions
-        url: /terms-and-conditions
-        description : "Our terms and conditions"
-        icon: "fas fa-fw fa-info"
-      - title : Privacy policy
-        url: /privacy
-        description : "Our privacy policy"
-        icon: "fas fa-fw fa-lock"
 
 smallsidenav:
-  - title: Contact
-    children:
-    - title : Talk to Louise
-      url: tel:+441483389949
-      description : "Call Chattertots"
-      icon: "fas fa-fw fa-phone"
-    - title : Email
-      url: mailto:chattertots@gmail.com
-      description : "Email Chattertots"
-      icon: "fas fa-fw fa-envelope"
-    - title : Phone
-      url: tel:+441483389949
-      description : "Call Chattertots"
-      icon: "fas fa-fw fa-phone"
-    - title : Find us
-      url: https://www.google.com/maps/place/Chattertots+Speech+%26+Language+Therapy/@51.1562199,-0.6155851,17z/data=!3m1!4b1!4m5!3m4!1s0x4875d1de8417fb71:0xeeba66052546eaa8!8m2!3d51.1562166!4d-0.6133964?hl=en
-      description : "Find Chattertots on Google maps"
-      icon: "fas fa-fw fa-map-pin"        
+  - title : Call Chattertots
+    url: tel:+441483389949
+    description : "Call Chattertots"
+    icon: "fas fa-fw fa-phone"
+  - title : Email Chattertots
+    url: mailto:chattertots@gmail.com
+    description : "Email Chattertots"
+    icon: "fas fa-fw fa-envelope"
+  - title : Find us
+    url: https://www.google.com/maps/place/Chattertots+Speech+%26+Language+Therapy/@51.1562199,-0.6155851,17z/data=!3m1!4b1!4m5!3m4!1s0x4875d1de8417fb71:0xeeba66052546eaa8!8m2!3d51.1562166!4d-0.6133964?hl=en
+    description : "Find Chattertots on Google maps"
+    icon: "fas fa-fw fa-map-pin"        

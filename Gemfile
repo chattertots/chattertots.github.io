@@ -6,6 +6,7 @@ gem "tzinfo-data"
 gem "wdm" if Gem.win_platform?
 gem "faraday"
 gem "dotenv"
+gem 'jekyll-compose', group: [:jekyll_plugins]
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do

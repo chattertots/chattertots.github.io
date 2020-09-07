@@ -6,8 +6,8 @@ author          : Chattertots
 author_profile  : false
 layout          : single
 classes         : wide
-#sidebar:
-# nav: smallsidenav
+sidebar:
+  nav: smallsidenav
 header:
   overlay_color: "#C2DD5B"
 #  overlay_filter: 0.1

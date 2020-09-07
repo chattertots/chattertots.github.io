@@ -26,7 +26,7 @@ feature_row_covid:
   - title: "COVID-19 - we are still operating!"
     excerpt: >
       If you’re concerned about your child’s progress, particularly with the  new school year looming, don’t feel you can’t do anything about it until this is well and truly over. Get in touch and we’ll arrange an assessment via 'teletherapy'.
-    url: "/teletherapy/"
+    url: "/covid/"
 feature_row_who_what_why:
   - image_path: /assets/images/webp/home-why.webp
     alt: "Why Chattertots?"
@@ -40,13 +40,19 @@ feature_row_who_what_why:
     alt: "What you can expect from us"
     title: "What ?"
     excerpt: >
-      After an initial discussion about your child's needs and you decide to employ Chattertots to help, the next course of action will be one of the following
+      After an initial discussion about your child's needs and you decide to employ Chattertots to help, the next course of action will be one of the following:
 
-      - 6-8 weekly 1:1 therapy sessions followed by a short break and then a review
-      - Advice or activities to try at home and then a review in around 3 months onward referral to other services
-      - a school/nursery visit to gather more information or to liaise with school staff
-      - a home program followed by a review at a later date
-      - no intervention necessary        
+      - 6-8 weekly 1:1 therapy sessions followed by a short break and then a review.
+
+      - Advice or activities to try at home and then a review in around 3 months onward referral to other services.
+
+      - a school/nursery visit to gather more information or to liaise with school staff.
+
+      - a home program followed by a review at a later date.
+
+      
+      We use a number of techniques, services and apps and have training in [different approaches](/specialisms) to help your child and get the most from our sessions together. 
+      
     url: "/what-to-expect/"
   - image_path: /assets/images/webp/home-who.webp
     alt: "Who is Chattertots?"
