@@ -1,12 +1,12 @@
 ---
 permalink       : /privacy/
+last_modified_at: 2020-09-01
 title           : "Privacy Policy"
 toc             : true
 share           : false
 author          : Chattertots
 author_profile  : false
 layout          : single
-classes         : wide
 sidebar:
   nav: privacysidenav
 header:

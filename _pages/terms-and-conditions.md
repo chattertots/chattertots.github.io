@@ -1,5 +1,6 @@
 ---
 permalink       : /terms-and-conditions/
+last_modified_at: 2020-09-01
 title           : Terms and Conditions
 toc             : true
 share           : false
