@@ -8,6 +8,8 @@ gem "faraday"
 gem "dotenv"
 gem 'jekyll-compose', group: [:jekyll_plugins]
 
+gem 'octopress', '~> 3.0'
+
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-paginate"

@@ -7,6 +7,9 @@ or specify a custom format for the date attribute in the yaml front matter
 
 - bundle exec jekyll post "My New Post" --timestamp-format "%Y-%m-%d %H:%M:%S %z"
 
+## Octopress
+- [Github] https://github.com/octopress/octopress
+
 # Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
