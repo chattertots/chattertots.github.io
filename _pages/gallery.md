@@ -18,8 +18,8 @@ header:
 gallery:
   - url: /assets/images/gallery/my-home-office.png.jpg
     image_path: /assets/images/gallerymy-home-office.png.jpg
-    alt: "image of my office "
-    title: "My 'other office'"
+    alt: "image of my office"
+    title: "My office"
   - url: /assets/images/gallery/working-from-my-office.jpg
     image_path: /assets/images/gallery/working-from-my-office.jpg
     alt: "image of my 'other office' "
