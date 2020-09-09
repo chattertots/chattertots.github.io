@@ -1,5 +1,5 @@
 ---
-permalink       : /Stephen/
+permalink       : /stephen/
 last_modified_at: 2020-09-01
 title           : "More about Stephen"
 share           : false
