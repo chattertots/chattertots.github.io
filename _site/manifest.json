@@ -1,0 +1,33 @@
+{
+  "dir": "ltr",
+  "lang": "en",
+  "name": "Chattertots Speech and Language Therapy",
+  "short_name": "Chattertots",
+  "scope": "/",
+  "display": "fullscreen",
+  "start_url": "/index.html",
+  "background_color": "#30a4ae",
+  "theme_color": "#30a4ae",
+  "description": "Chattertots is run by Louise Hibbert, a fully qualified Speech and Language Therapist who specialises in working with children aged approximately 2 to 11 years in the Surrey area",
+  "orientation": "any",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "assets/favicon/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/favicon/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/favicon/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "url": "https://www.chattertots.net"
+}

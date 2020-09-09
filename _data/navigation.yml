@@ -43,6 +43,10 @@ aboutsidenav:
     url: tel:+441483389949
     description : "Call Chattertots"
     icon: "fas fa-fw fa-phone"
+  - title : Email Chattertots
+    url: mailto:chattertots@gmail.com
+    description : "Email Chattertots"
+    icon: "fas fa-fw fa-envelope"
 
 whattoexpectsidenav:
   - title: Covid-19
@@ -61,6 +65,10 @@ whattoexpectsidenav:
     url: tel:+441483389949
     description : "Call Chattertots"
     icon: "fas fa-fw fa-phone"
+  - title : Email Chattertots
+    url: mailto:chattertots@gmail.com
+    description : "Email Chattertots"
+    icon: "fas fa-fw fa-envelope"
 
 feessidenav:
   - title: Terms and Conditions
@@ -75,6 +83,10 @@ feessidenav:
     url: tel:+441483389949
     description : "Call Chattertots"
     icon: "fas fa-fw fa-phone"
+  - title : Email Chattertots
+    url: mailto:chattertots@gmail.com
+    description : "Email Chattertots"
+    icon: "fas fa-fw fa-envelope"
 
 termssidenav:
   - title : Privacy policy
@@ -85,6 +97,10 @@ termssidenav:
     url: tel:+441483389949
     description : "Call Chattertots"
     icon: "fas fa-fw fa-phone"
+  - title : Email Chattertots
+    url: mailto:chattertots@gmail.com
+    description : "Email Chattertots"
+    icon: "fas fa-fw fa-envelope"
     
 privacysidenav:
   - title: Terms and Conditions
@@ -95,6 +111,10 @@ privacysidenav:
     url: tel:+441483389949
     description : "Call Chattertots"
     icon: "fas fa-fw fa-phone"
+  - title : Email Chattertots
+    url: mailto:chattertots@gmail.com
+    description : "Email Chattertots"
+    icon: "fas fa-fw fa-envelope"
 
 
 

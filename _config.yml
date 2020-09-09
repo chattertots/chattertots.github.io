@@ -192,6 +192,7 @@ exclude:
   - /test # ignore Minimal Mistakes /test
   - /IFDROPDOWNNAV
   - /blogexamples
+  - /unusedimages
 keep_files:
   - .git
   - .svn
