@@ -1,6 +1,6 @@
 ---
 permalink      : /fees/
-last_modified_at: 2020-09-01
+last_modified_at: 2020-11-11
 title          : "Fees"
 toc            : true
 share          : true

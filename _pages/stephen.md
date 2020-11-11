@@ -1,6 +1,6 @@
 ---
 permalink       : /stephen/
-last_modified_at: 2020-09-01
+last_modified_at: 2020-11-11
 title           : "More about Stephen"
 share           : false
 author          : Stephen McNicol

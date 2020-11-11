@@ -1,6 +1,6 @@
 ---
 permalink       : /privacy-request/
-last_modified_at: 2020-09-01
+last_modified_at: 2020-11-11
 title           : Personal data request
 share           : false
 author          : Chattertots
