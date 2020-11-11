@@ -12,7 +12,7 @@ sidebar:
 header:
   overlay_color: "#C2DD5B"
 #  overlay_filter: 0.1
-#  overlay_image: /assets/images/page-features/webp/60/about-why-me3.webp
+#  overlay_image: /assets/images/page-features/webp/60/about-why-me3.jpg
 ---
 
 > "Thank you for everything you have done for H. The change we have seen is amazing and we cannot thank you enough!"

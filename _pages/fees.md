@@ -14,7 +14,7 @@ header:
 #header:
 #  overlay_color: #000
 #  overlay_filter: 0.1
-#  overlay_image: /assets/images/page-features/webp/60/what-to-expect-abstract.webp
+#  overlay_image: /assets/images/page-features/webp/60/what-to-expect-abstract.jpg
 #  caption: "Photo credit: [**Steve Johnson**](https://www.pexels.com/@steve)"
 ---
 Before committing to an assessment, you are welcome to contact me by [phone](tel:+441483389949) or by [email](mailto:chattertots@gmail.com) for a brief discussion of your concerns, and whether Speech and Language Therapy could help.  There is no fee for general emails and telephone calls. 

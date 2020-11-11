@@ -15,7 +15,7 @@ header:
 # header:
 #  overlay_color: #000
 #  overlay_filter: 0.1
-#  overlay_image: /assets/images/page-features/webp/60/what-to-expect-abstract.webp
+#  overlay_image: /assets/images/page-features/webp/60/what-to-expect-abstract.jpg
 ---
 
 Referrals can come from a range of people including parents/carers, Health Visitors, Doctors, Educational staff.  

@@ -14,7 +14,7 @@ header:
 #header:
 #  overlay_color: #000
 #  overlay_filter: 0.1
-#  overlay_image: /assets/images/page-features/webp/60/contact-abstract.webp
+#  overlay_image: /assets/images/page-features/webp/60/contact-abstract.jpg
 #  caption: "Photo credit: [**Steve Johnson**](https://www.pexels.com/@steve)"
 ---
 

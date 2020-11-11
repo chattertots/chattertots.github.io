@@ -27,7 +27,7 @@ github                   : [metadata]
 github_username          : chattertots
 repository               : "chattertots/chattertots.github.io"
 # teaser                   : #path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/webp/chattertots-logo-subtitle.webp"
+logo                     : "/assets/images/webp/chattertots-logo-subtitle.png"
 masthead_title           : "Chattertots Speech and Language Therapy"
 masthead_subtitle        : "Speech and Language Therapy in Surrey"
 # breadcrumbs            : false # true, false (default)
@@ -81,7 +81,7 @@ facebook:
   username               : speechtherapysurrey
   app_id                 : 2220287517999610
   publisher              :
-og_image                 : "/assets/images/webp/chattertots-logo.webp"
+og_image                 : "/assets/images/webp/chattertots-logo.jpg"
 
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
