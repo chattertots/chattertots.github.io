@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-GB"
 title                    : "Chattertots"
 title_separator          : " - "
-subtitle                 : "Speech and Language Therapy"
+subtitle                 : #"Speech and Language Therapy"
 name                     : "Louise Hibbert"
 description              : "Chattertots is run by Louise Hibbert, a fully qualified Speech and Language Therapist who specialises in working with children aged approximately 2 to 11 years."
 url                      : "https://www.chattertots.net"
@@ -27,8 +27,8 @@ github                   : [metadata]
 github_username          : chattertots
 repository               : "chattertots/chattertots.github.io"
 # teaser                   : #path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/webp/chattertots-logo.webp"
-masthead_title           : " "
+logo                     : "/assets/images/webp/chattertots-logo-subtitle.webp"
+masthead_title           : "Chattertots Speech and Language Therapy"
 masthead_subtitle        : "Speech and Language Therapy in Surrey"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
