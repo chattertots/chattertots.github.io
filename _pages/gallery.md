@@ -33,6 +33,18 @@ gallery:
     image_path: /assets/images/gallery/teletherapy-after-green-screen.webp
     alt: "image of teletherapy with green screen magic"
     title: "...when the greenscreen goes on"
+  - url: /assets/images/gallery/group-session.webp
+    image_path: /assets/images/gallery/group-session.webp
+    alt: "image of therapy with 2 boys"
+    title: "Therapy with 2 boys"
+  - url: /assets/images/gallery/therapy-games.webp
+    image_path: /assets/images/gallery/therapy-games.webp
+    alt: "image of therapy with a game I use"
+    title: "Engaged therapy"
+  - url: /assets/images/gallery/prompt.webp
+    image_path: /assets/images/gallery/prompt.webp
+    alt: "image of PROMPT therapy"
+    title: "Using PROMPT to help"
 
 ---
 {% include gallery id="gallery" %}

@@ -21,10 +21,10 @@ var store = [,{
       "excerpt":"Before committing to an assessment, you are welcome to contact me by phone or by email for a brief discussion of your concerns, and whether Speech and Language Therapy could help. There is no fee for general emails and telephone calls. Initial assessment Time : 1 – 1 ½ hour...","url": "https://www.chattertots.net/fees/"
     },{
       "title": "Chattertots at work",
-      "excerpt":"                                                                                                                                                                  ","url": "https://www.chattertots.net/gallery/"
+      "excerpt":"                                                                                                                                                                                                                                                                                    ","url": "https://www.chattertots.net/gallery/"
     },{
       "title": "Chattertots Speech & Language Therapy",
-      "excerpt":"COVID-19 - we are still operating! If you’re concerned about your child’s progress, particularly with the new school year looming, don’t feel you can’t do anything about it until this is well and truly over. Get in touch and we’ll arrange an assessment via ‘teletherapy’. Learn more Why ? “Thank...","url": "https://www.chattertots.net/"
+      "excerpt":"COVID-19 - we are still operating! If you’re concerned about your child’s progress, particularly with the new school year looming, don’t feel you can’t do anything about it until this is well and truly over. Get in touch and we’ll arrange an assessment via ‘teletherapy’. Learn more Who ? Chattertots...","url": "https://www.chattertots.net/"
     },{
       "title": "Louise Hibbert",
       "excerpt":"Louise is a fully qualified, specialist Speech and Language Therapist with 20 years experience. Education I completed my undergraduate degree in Linguistics in 1997. I then qualified as a Speech and Language Therapist in 2001, obtaining a Master of Medical Science (MMedSci) degree in Clinical Communication Studies from the University...","url": "https://www.chattertots.net/louise/"

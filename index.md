@@ -29,14 +29,19 @@ feature_row_covid:
       If you’re concerned about your child’s progress, particularly with the  new school year looming, don’t feel you can’t do anything about it until this is well and truly over. Get in touch and we’ll arrange an assessment via 'teletherapy'.
     url: "/covid/"
 feature_row_who_what_why:
-  - image_path: /assets/images/webp/home-why.webp
-    alt: "Why Chattertots?"
-    title: "Why ?"
+  - image_path: /assets/images/webp/home-who.webp
+    alt: "Who is Chattertots?"
+    title: "Who ?"
     excerpt: >
-      > "Thank you for everything you have done for H. The change we have seen is amazing and we cannot thank you enough!"
-       
-      > "Thank you so much for your help with F. Over the last few weeks, you have been so patient and encouraging. We now can't stop him talking!"
-    url: "/testimonials/"
+      Chattertots is run by Louise Hibbert, a fully qualified Speech and Language Therapist who specialises in working with children aged approximately 2 to 11 years.
+
+
+      Based in Godalming, we cover Witley, Chiddingfold, Haslemere, Hindhead, Elstead, Farnham, Ash, Worplesdon, Guildford, Shalford, Chilworth, Shere, Cranleigh and surrounding areas in West Surrey and parts of North-East Hampshire.
+            
+      
+      We provide private therapy at home-based clinics, schools, your home or via [Teletherapy](/teletherapy)
+
+    url: "/about"
   - image_path: /assets/images/webp/home-what.webp
     alt: "What you can expect from us"
     title: "What ?"
@@ -55,20 +60,14 @@ feature_row_who_what_why:
       We use a number of techniques, services and apps and have training in [different approaches](/specialisms) to help your child and get the most from our sessions together. 
       
     url: "/what-to-expect/"
-  - image_path: /assets/images/webp/home-who.webp
-    alt: "Who is Chattertots?"
-    title: "Who ?"
+  - image_path: /assets/images/webp/home-why.webp
+    alt: "Why Chattertots?"
+    title: "Why ?"
     excerpt: >
-      Chattertots is run by Louise Hibbert, a fully qualified Speech and Language Therapist who specialises in working with children aged approximately 2 to 11 years.
-
-
-      Based in Godalming, we cover Witley, Chiddingfold, Haslemere, Hindhead, Elstead, Farnham, Ash, Worplesdon, Guildford, Shalford, Chilworth, Shere, Cranleigh and surrounding areas in West Surrey and parts of North-East Hampshire.
-            
-      
-      We provide private therapy at home-based clinics, schools, your home or via [Teletherapy](/teletherapy)
-
-    url: "/about"
-
+      > "Thank you for everything you have done for H. The change we have seen is amazing and we cannot thank you enough!"
+       
+      > "Thank you so much for your help with F. Over the last few weeks, you have been so patient and encouraging. We now can't stop him talking!"
+    url: "/testimonials/"
 gallery:
   - url: https://www.asltip.com/members/mrs-louise-hibbert
     image_path: /assets/images/webp/ASLTIP.webp

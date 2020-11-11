@@ -26,7 +26,7 @@ If you verbally commit to a speech and language therapy sessions, you are agreei
 
 ## Location of sessions
 
-Assessments may take place at my home-based clinic at GU8 4DF, or may be offered in your own home. We would ask that you provide a quiet environment, free from distraction (e.g. phone, TV) where possible. It is also expected that you will stay with your child for the duration of the session. Unless otherwise arranged, therapy sessions will be provided at my premises in Godalming, Surrey.
+Assessments may take place at Louise's home-based clinic at GU8 4DF, or may be offered in your own home. We would ask that you provide a quiet environment, free from distraction (e.g. phone, TV) where possible. It is also expected that you will stay with your child for the duration of the session. Unless otherwise arranged, therapy sessions will be provided at Louise's premises in Godalming, Surrey.
 
 It may also be possible to arrange assessment at another location, such as school.
 
@@ -36,7 +36,7 @@ Time permitting, we are willing to provide assessments, and possibly some therap
 
 ## Working hours
 
-Louise provide sessions usually between 9.30am and 3.30pm on a Monday, Tuesday, Thursday and Friday with the last session starting no later than 2.30pm.  
+Louise currently provides sessions usually between 9.30am and 3.45pm on a Tuesday, Wednesday and Thursday with the last session starting no later than 3.15pm.  
 
 Alison provides sessions between 9am and 5.30pm on a Wednesday and may consider a weekend.  
 
