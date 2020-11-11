@@ -4,42 +4,20 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        {% if logo_path != empty %}
-          <a class="site-logo" href="{{ '/' | relative_url }}" title="Link to Chattertots home page">
-          <img src="{{ logo_path | relative_url }}" alt="Chattertots logo">
-          {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
-        {% else %} 
+        {% unless logo_path == empty %}
+          <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt=""></a>
+        {% endunless %}
         <a class="site-title" href="{{ '/' | relative_url }}">
           {{ site.masthead_title | default: site.title }}
-          {% if site.masthead_subtitle %}<a class="site-subtitle" style="margin : 0">{{ site.masthead_subtitle }}</span>{% endif %}
+          {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a>
-        {% endif %}
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
-          {% assign class = nil %}
-          {% if page.url contains link.url %}
-          {% assign class = 'active' %}
-          {% endif %}
-          {% if link.sublinks %}
-          <li class="dropdown {{ class }}">
-              <a {% if link.description != "" %} title="{{link.description}}" {% endif %} class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-                  aria-expanded="false" {% if link.url %}href="{{ site.baseurl }}{{ link.url }}"{% endif%} >{{ link.title }} <i class="fa fa-caret-down fa-sm"
-                      aria-hidden="true"></i><span class="caret"></span></a>
-              <ul class="dropdown-content">
-                  {% for sublink in link.sublinks %}
-                  <li>
-                      <a {% if sublink.description != "" %} title="{{sublink.description}}" {% endif %} {%if sublink.description %}title="{{sublink.description}}" {% endif %} href="{{ site.baseurl }}{{ sublink.url }}"> {{ sublink.title }}</a>
-                  </li>
-                  {% endfor %}
-              </ul>
-          </li>
-          {% else %}
-          <li class="masthead__menu-item">
-              <a {%if link.description %}title="{{link.description}}" {% endif %} href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
-          </li>
-          {% endif %}
-          {% endfor %}
-      </ul>
+            <li class="masthead__menu-item">
+              <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+            </li>
+          {%- endfor -%}
+        </ul>
         {% if site.search == true %}
         <button class="search__toggle" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
