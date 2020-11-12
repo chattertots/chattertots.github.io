@@ -1,7 +1,7 @@
 ---
 sitemap:
   lastmod: 2020-11-11
-  priority: 0.8
+  priority: 0.6
   changefreq: 'yearly'
   exclude: 'no'
 permalink       : /gallery.html

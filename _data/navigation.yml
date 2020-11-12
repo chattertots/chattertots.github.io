@@ -1,25 +1,25 @@
 main:
   - title: "About"
-    url: /about/
+    url: /about.html
     description: "About Chattertots"
   - title: "What to expect"
-    url: /what-to-expect/
+    url: /what-to-expect.html
     description: "What to expect when we provide therapy for your child"
   - title: "Specialisms"
-    url: /specialisms/
+    url: /specialisms.html
     description: "Additional qualifications and training"
   - title: "Fees"
-    url: /fees/
+    url: /fees.html
     description: "Fees for our work"
   - title: "Testimonials"
-    url: /testimonials/
+    url: /testimonials.html
     description: "What parents have said about our work with their children"
   - title : Terms and conditions
-    url: /terms-and-conditions
+    url: /terms-and-conditions.html
     description : "Our terms and conditions"
     icon: "fas fa-fw fa-info"
   - title : Privacy policy
-    url: /privacy
+    url: /privacy.html
     description : "Our privacy policy"
     icon: "fas fa-fw fa-lock"
   # - title: "Blog"
@@ -28,15 +28,15 @@ main:
 
 aboutsidenav:
   - title: "Louise Hibbert"
-    url: /louise/
+    url: /louise.html
     description : "Information about Louise Hibbert"
     icon: "fas fa-fw fa-user"
   - title: "Alison Taylor"
-    url: /alison/
+    url: /alison.html
     description: "Information about Alison Taylor"
     icon: "fas fa-fw fa-user"
   - title: "Stephen McNicol"
-    url: /Stephen/
+    url: /Stephen.html
     description: "Information about Stephen McNicol"
     icon: "fas fa-fw fa-user"
   - title : Call Chattertots
@@ -50,15 +50,15 @@ aboutsidenav:
 
 whattoexpectsidenav:
   - title: Covid-19
-    url: /covid/
+    url: /covid.html
     description: "Therapy during the pandemic"
     icon: "fas fa-fw fa-pump-medical"
   - title: Teletherapy 
-    url: /teletherapy/
+    url: /teletherapy.html
     description: "Speech Therapy via video conferencing"
     icon: "fas fa-fw fa-chalkboard-teacher"
   - title: Gallery  
-    url: /gallery/
+    url: /gallery.html
     description: "Chattertots at work!"
     icon: "fas fa-fw fa-image"
   - title : Call Chattertots
@@ -72,11 +72,11 @@ whattoexpectsidenav:
 
 feessidenav:
   - title: Terms and Conditions
-    url: /terms-and-conditions
+    url: /terms-and-conditions.html
     description : "Terms and conditions"
     icon: "fas fa-fw fa-info"
   - title : Privacy policy
-    url: /privacy
+    url: /privacy.html
     description : "Our privacy policy"
     icon: "fas fa-fw fa-lock"
   - title : Call Chattertots
@@ -90,7 +90,7 @@ feessidenav:
 
 termssidenav:
   - title : Privacy policy
-    url: /privacy
+    url: /privacy.html
     description : "Our privacy policy"
     icon: "fas fa-fw fa-lock"
   - title : Call Chattertots
@@ -104,7 +104,7 @@ termssidenav:
     
 privacysidenav:
   - title: Terms and Conditions
-    url: /terms-and-conditions
+    url: /terms-and-conditions.html
     description : "Terms and conditions"
     icon: "fas fa-fw fa-info"
   - title : Call Chattertots

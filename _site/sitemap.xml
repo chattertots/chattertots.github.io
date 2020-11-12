@@ -104,7 +104,7 @@
         <changefreq>yearly</changefreq>
       
       
-        <priority>0.8</priority>
+        <priority>0.6</priority>
       
     </url>
     
@@ -147,7 +147,7 @@
     <url>
       <loc>https://www.chattertots.net/assets/js/lunr/lunr-store.js</loc>
       
-        <lastmod>2020-11-12T08:58:15+00:00</lastmod>
+        <lastmod>2020-11-12T09:10:04+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -162,7 +162,7 @@
     <url>
       <loc>https://www.chattertots.net/offline.html</loc>
       
-        <lastmod>2020-11-12T08:58:15+00:00</lastmod>
+        <lastmod>2020-11-12T09:10:04+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -222,7 +222,7 @@
     <url>
       <loc>https://www.chattertots.net/robots.txt</loc>
       
-        <lastmod>2020-11-12T08:58:15+00:00</lastmod>
+        <lastmod>2020-11-12T09:10:04+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -361,7 +361,7 @@
     <url>
       <loc>https://www.chattertots.net/assets/css/main.css</loc>
       
-        <lastmod>2020-11-12T08:58:15+00:00</lastmod>
+        <lastmod>2020-11-12T09:10:04+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -376,7 +376,7 @@
     <url>
       <loc>https://www.chattertots.net/assets/js/lunr/lunr-en.js</loc>
       
-        <lastmod>2020-11-12T08:58:15+00:00</lastmod>
+        <lastmod>2020-11-12T09:10:04+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -391,7 +391,7 @@
     <url>
       <loc>https://www.chattertots.net/assets/js/lunr/lunr-gr.js</loc>
       
-        <lastmod>2020-11-12T08:58:15+00:00</lastmod>
+        <lastmod>2020-11-12T09:10:04+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -406,7 +406,7 @@
     <url>
       <loc>https://www.chattertots.net/feed.xml</loc>
       
-        <lastmod>2020-11-12T08:58:15+00:00</lastmod>
+        <lastmod>2020-11-12T09:10:04+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>

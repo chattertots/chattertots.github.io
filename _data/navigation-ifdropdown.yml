@@ -2,54 +2,54 @@ main:
   - title: "About"
     sublinks:
     - title: "Chattertots"
-      url: /about/
+      url: /about.html
       description: "About Chattertots"
     - title: "Louise"
-      url: /louise/
+      url: /louise.html
       description: "Louise Hibbert bio"
     - title: "Alison"
-      url: /alison/
+      url: /alison.html
       description: "Alison Taylor bio"
     - title: "Stephen"
-      url: /Stephen/
+      url: /Stephen.html
       description: "Stephen McNicol bio"
   - title: "What to expect"
     sublinks:
     - title: "Therapy"
-      url: /what-to-expect/
+      url: /what-to-expect.html
       description: "What to expect when we provide therapy for your child"
     - title: Teletherapy 
-      url: /teletherapy/
+      url: /teletherapy.html
       description: "Speech Therapy via video conferencing"
     - title: Gallery  
-      url: /gallery/
+      url: /gallery.html
       description: "Chattertots at work!"
   - title: "Specialisms"
-    url: /specialisms/
+    url: /specialisms.html
     description: "Additional qualifications and training"
   - title: "Fees"
-    url: /fees/
+    url: /fees.html
     description: "Fees for our work"
   - title: "Testimonials"
-    url: /testimonials/
+    url: /testimonials.html
     description: "What parents have said about our work with their children"
   - title : Terms and conditions
-    url: /terms-and-conditions
+    url: /terms-and-conditions.html
     description : "Our terms and conditions"
     icon: "fas fa-fw fa-info"
   - title : Privacy policy
-    url: /privacy
+    url: /privacy.html
     description : "Our privacy policy"
     icon: "fas fa-fw fa-lock"
   - title: "Blog"
-    url: /posts/
+    url: /posts.html
     description: "Articles that we have found or written that we would like to share with you"
 
 standardsidenav:
   - title: Contact
     children:
       - title : Contact form
-        url: /contact
+        url: /contact.html
         description : "Contact Chattertots via our online form"
         icon: "fas fa-fw fa-keyboard"
       - title : Email
@@ -67,15 +67,15 @@ standardsidenav:
   - title: People
     children:
       - title: "Louise Hibbert"
-        url: /louise/
+        url: /louise.html
         description : "Information about Louise Hibbert"
         icon: "fas fa-fw fa-user"
       - title: "Alison Taylor"
-        url: /alison/
+        url: /alison.html
         description: "Information about Alison Taylor"
         icon: "fas fa-fw fa-user"
       - title: "Stephen McNicol"
-        url: /Stephen/
+        url: /Stephen.html
         description: "Information about Stephen McNicol"
         icon: "fas fa-fw fa-user"
   - title: Social
@@ -95,11 +95,11 @@ standardsidenav:
   - title: Information
     children:
       - title : Terms and conditions
-        url: /terms-and-conditions
+        url: /terms-and-conditions.html
         description : "Our terms and conditions"
         icon: "fas fa-fw fa-info"
       - title : Privacy policy
-        url: /privacy
+        url: /privacy.html
         description : "Our privacy policy"
         icon: "fas fa-fw fa-lock"
 
@@ -107,7 +107,7 @@ smallsidenav:
   - title: Contact
     children:
       - title : Contact form
-        url: /contact
+        url: /contact.html
         description : "Contact Chattertots via our online form"
         icon: "fas fa-fw fa-keyboard"
       - title : Email
