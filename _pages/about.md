@@ -1,5 +1,10 @@
 ---
-permalink       : /about/
+sitemap:
+  lastmod: 2020-11-11
+  priority: 0.9
+  changefreq: 'yearly'
+  exclude: 'no'
+permalink       : /about.html
 last_modified_at: 2020-11-11
 title           : "About Chattertots"
 share           : false

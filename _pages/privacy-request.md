@@ -1,5 +1,10 @@
 ---
-permalink       : /privacy-request/
+sitemap:
+  lastmod: 2020-11-11
+  priority: 0.6
+  changefreq: 'yearly'
+  exclude: 'no'
+permalink       : /privacy-request.html
 last_modified_at: 2020-11-11
 title           : Personal data request
 share           : false

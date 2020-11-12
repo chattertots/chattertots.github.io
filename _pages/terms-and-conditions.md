@@ -1,5 +1,10 @@
 ---
-permalink       : /terms-and-conditions/
+sitemap:
+  lastmod: 2020-11-11
+  priority: 0.8
+  changefreq: 'yearly'
+  exclude: 'no'
+permalink       : /terms-and-conditions.html
 last_modified_at: 2020-11-11
 title           : Terms and Conditions
 toc             : true

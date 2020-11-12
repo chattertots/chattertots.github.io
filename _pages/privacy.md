@@ -1,5 +1,10 @@
 ---
-permalink       : /privacy/
+sitemap:
+  lastmod: 2020-11-11
+  priority: 0.6
+  changefreq: 'yearly'
+  exclude: 'no'
+permalink       : /privacy.html
 last_modified_at: 2020-11-11
 title           : "Privacy Policy"
 toc             : true

@@ -1,5 +1,10 @@
 ---
-permalink       : /gallery/
+sitemap:
+  lastmod: 2020-11-11
+  priority: 0.8
+  changefreq: 'yearly'
+  exclude: 'no'
+permalink       : /gallery.html
 last_modified_at: 2020-11-11
 title           : "Chattertots at work"
 share           : false

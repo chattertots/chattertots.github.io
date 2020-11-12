@@ -1,5 +1,10 @@
 ---
-permalink       : /thanks/
+sitemap:
+  lastmod: 2020-11-11
+  priority: 0.3
+  changefreq: 'yearly'
+  exclude: 'yes'
+permalink       : /thanks.html
 last_modified_at: 2020-11-11
 title           : Thank you
 share           : false

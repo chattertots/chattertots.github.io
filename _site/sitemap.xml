@@ -1,90 +1,420 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://www.chattertots.net/about/</loc>
-<lastmod>2020-11-11T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://www.chattertots.net/alison/</loc>
-<lastmod>2020-11-11T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://www.chattertots.net/categories/</loc>
-<lastmod>2020-11-11T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://www.chattertots.net/contact/</loc>
-<lastmod>2020-11-11T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://www.chattertots.net/covid/</loc>
-<lastmod>2020-11-11T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://www.chattertots.net/fees/</loc>
-<lastmod>2020-11-11T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://www.chattertots.net/gallery/</loc>
-<lastmod>2020-11-11T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://www.chattertots.net/</loc>
-</url>
-<url>
-<loc>https://www.chattertots.net/</loc>
-<lastmod>2020-11-11T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://www.chattertots.net/louise/</loc>
-<lastmod>2020-11-11T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://www.chattertots.net/privacy-request/</loc>
-<lastmod>2020-11-11T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://www.chattertots.net/privacy/</loc>
-<lastmod>2020-11-11T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://www.chattertots.net/qualifications/</loc>
-<lastmod>2020-11-11T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://www.chattertots.net/specialisms/</loc>
-<lastmod>2020-11-11T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://www.chattertots.net/stephen/</loc>
-<lastmod>2020-11-11T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://www.chattertots.net/tags/</loc>
-<lastmod>2020-11-11T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://www.chattertots.net/teletherapy/</loc>
-<lastmod>2020-11-11T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://www.chattertots.net/terms-and-conditions/</loc>
-<lastmod>2020-11-11T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://www.chattertots.net/testimonials/</loc>
-<lastmod>2020-11-11T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://www.chattertots.net/thanks/</loc>
-<lastmod>2020-11-11T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://www.chattertots.net/what-to-expect/</loc>
-<lastmod>2020-11-11T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://www.chattertots.net/posts/</loc>
-<lastmod>2020-11-11T00:00:00+00:00</lastmod>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+    
+  
+    
+    <url>
+      <loc>https://www.chattertots.net/about.html</loc>
+      
+        <lastmod>2020-11-11</lastmod>
+      
+      
+        <changefreq>yearly</changefreq>
+      
+      
+        <priority>0.9</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.chattertots.net/alison.html</loc>
+      
+        <lastmod>2020-11-11</lastmod>
+      
+      
+        <changefreq>yearly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.chattertots.net/categories.html</loc>
+      
+        <lastmod>2020-11-11</lastmod>
+      
+      
+        <changefreq>yearly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.chattertots.net/contact.html</loc>
+      
+        <lastmod>2020-11-11</lastmod>
+      
+      
+        <changefreq>yearly</changefreq>
+      
+      
+        <priority>0.9</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.chattertots.net/covid.html</loc>
+      
+        <lastmod>2020-11-11</lastmod>
+      
+      
+        <changefreq>yearly</changefreq>
+      
+      
+        <priority>0.8</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.chattertots.net/fees.html</loc>
+      
+        <lastmod>2020-11-11</lastmod>
+      
+      
+        <changefreq>yearly</changefreq>
+      
+      
+        <priority>0.9</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.chattertots.net/gallery.html</loc>
+      
+        <lastmod>2020-11-11</lastmod>
+      
+      
+        <changefreq>yearly</changefreq>
+      
+      
+        <priority>0.8</priority>
+      
+    </url>
+    
+  
+    
+  
+    
+  
+    
+    <url>
+      <loc>https://www.chattertots.net/</loc>
+      
+        <lastmod>2020-11-11</lastmod>
+      
+      
+        <changefreq>yearly</changefreq>
+      
+      
+        <priority>1.0</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.chattertots.net/louise.html</loc>
+      
+        <lastmod>2020-11-11</lastmod>
+      
+      
+        <changefreq>yearly</changefreq>
+      
+      
+        <priority>0.9</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.chattertots.net/assets/js/lunr/lunr-store.js</loc>
+      
+        <lastmod>2020-11-12T08:58:15+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.chattertots.net/offline.html</loc>
+      
+        <lastmod>2020-11-12T08:58:15+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.chattertots.net/privacy-request.html</loc>
+      
+        <lastmod>2020-11-11</lastmod>
+      
+      
+        <changefreq>yearly</changefreq>
+      
+      
+        <priority>0.6</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.chattertots.net/privacy.html</loc>
+      
+        <lastmod>2020-11-11</lastmod>
+      
+      
+        <changefreq>yearly</changefreq>
+      
+      
+        <priority>0.6</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.chattertots.net/qualifications.html</loc>
+      
+        <lastmod>2020-11-11</lastmod>
+      
+      
+        <changefreq>yearly</changefreq>
+      
+      
+        <priority>0.8</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.chattertots.net/robots.txt</loc>
+      
+        <lastmod>2020-11-12T08:58:15+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+  
+    
+    <url>
+      <loc>https://www.chattertots.net/specialisms.html</loc>
+      
+        <lastmod>2020-11-11</lastmod>
+      
+      
+        <changefreq>yearly</changefreq>
+      
+      
+        <priority>0.8</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.chattertots.net/stephen.html</loc>
+      
+        <lastmod>2020-11-11</lastmod>
+      
+      
+        <changefreq>yearly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.chattertots.net/tags.html</loc>
+      
+        <lastmod>2020-11-11</lastmod>
+      
+      
+        <changefreq>yearly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.chattertots.net/teletherapy.html</loc>
+      
+        <lastmod>2020-11-11</lastmod>
+      
+      
+        <changefreq>yearly</changefreq>
+      
+      
+        <priority>0.8</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.chattertots.net/terms-and-conditions.html</loc>
+      
+        <lastmod>2020-11-11</lastmod>
+      
+      
+        <changefreq>yearly</changefreq>
+      
+      
+        <priority>0.8</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.chattertots.net/testimonials.html</loc>
+      
+        <lastmod>2020-11-11</lastmod>
+      
+      
+        <changefreq>yearly</changefreq>
+      
+      
+        <priority>0.9</priority>
+      
+    </url>
+    
+  
+    
+  
+    
+    <url>
+      <loc>https://www.chattertots.net/what-to-expect.html</loc>
+      
+        <lastmod>2020-11-11</lastmod>
+      
+      
+        <changefreq>yearly</changefreq>
+      
+      
+        <priority>0.8</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.chattertots.net/posts.html</loc>
+      
+        <lastmod>2020-11-11</lastmod>
+      
+      
+        <changefreq>yearly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.chattertots.net/assets/css/main.css</loc>
+      
+        <lastmod>2020-11-12T08:58:15+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.chattertots.net/assets/js/lunr/lunr-en.js</loc>
+      
+        <lastmod>2020-11-12T08:58:15+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.chattertots.net/assets/js/lunr/lunr-gr.js</loc>
+      
+        <lastmod>2020-11-12T08:58:15+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.chattertots.net/feed.xml</loc>
+      
+        <lastmod>2020-11-12T08:58:15+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
 </urlset>

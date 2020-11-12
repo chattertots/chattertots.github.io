@@ -1,4 +1,9 @@
 ---
+sitemap:
+  lastmod: 2020-11-11
+  priority: 1.0
+  changefreq: 'yearly'
+  exclude: 'no'
 layout: splash
 last_modified_at: 2020-11-11
 title: Chattertots Speech & Language Therapy

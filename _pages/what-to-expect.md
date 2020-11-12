@@ -1,6 +1,11 @@
 ---
-permalink       : /what-to-expect/
-last_modified_at: 2020-11-11
+sitemap:
+  lastmod: 2020-11-11
+  priority: 0.8
+  changefreq: 'yearly'
+  exclude: 'no'
+permalink       : /what-to-expect.html
+last_modified_at: 2020-11-11.html
 title           : "What to expect"
 toc             : true
 share           : false

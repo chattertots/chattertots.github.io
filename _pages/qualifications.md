@@ -1,5 +1,10 @@
 ---
-permalink       : /qualifications/
+sitemap:
+  lastmod: 2020-11-11
+  priority: 0.8
+  changefreq: 'yearly'
+  exclude: 'no'
+permalink       : /qualifications.html
 last_modified_at: 2020-11-11
 title           : "Qualifications"
 toc             : true

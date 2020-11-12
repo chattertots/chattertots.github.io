@@ -1,5 +1,10 @@
 ---
-permalink       : /alison/
+sitemap:
+  lastmod: 2020-11-11
+  priority: 0.5
+  changefreq: 'yearly'
+  exclude: 'no'
+permalink       : /alison.html
 last_modified_at: 2020-11-11
 title           : "More about Alison"
 share           : false

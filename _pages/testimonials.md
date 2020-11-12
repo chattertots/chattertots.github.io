@@ -1,5 +1,10 @@
 ---
-permalink       : /testimonials/
+sitemap:
+  lastmod: 2020-11-11
+  priority: 0.9
+  changefreq: 'yearly'
+  exclude: 'no'
+permalink       : /testimonials.html
 last_modified_at: 2020-11-11
 title           : "Testimonials"
 share           : false
