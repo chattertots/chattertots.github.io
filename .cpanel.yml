@@ -3,8 +3,6 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/chattert/public_html/
     - /bin/cp -R _site/assets $DEPLOYPATH
-    - /bin/cp _site/assets $DEPLOYPATH
-    - /bin/cp _site/assets
     - /bin/cp _site/404.html $DEPLOYPATH      
     - /bin/cp _site/about.html $DEPLOYPATH     
     - /bin/cp _site/alison.html $DEPLOYPATH    
