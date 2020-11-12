@@ -2,4 +2,35 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/user/public_html/
-    - /bin/cp -R _site $DEPLOYPATH
+    - /bin/cp -R _site/assets $DEPLOYPATH
+    - /bin/cp _site/assets $DEPLOYPATH
+    - /bin/cp _site/assets
+    - /bin/cp _site/404.html $DEPLOYPATH      
+    - /bin/cp _site/about.html  $DEPLOYPATH     
+    - /bin/cp _site/alison.html  $DEPLOYPATH    
+    - /bin/cp _site/categories.html  $DEPLOYPATH
+    - /bin/cp _site/contact.html  $DEPLOYPATH   
+    - /bin/cp _site/covid.html  $DEPLOYPATH    
+    - /bin/cp _site/favicon.ico $DEPLOYPATH
+    - /bin/cp _site/feed.xml $DEPLOYPATH
+    - /bin/cp _site/fees.html $DEPLOYPATH
+    - /bin/cp _site/gallery.html $DEPLOYPATH
+    - /bin/cp _site/index.html $DEPLOYPATH
+    - /bin/cp _site/louise.html $DEPLOYPATH
+    - /bin/cp _site/manifest.json $DEPLOYPATH
+    - /bin/cp _site/offline.html $DEPLOYPATH
+    - /bin/cp _site/posts.html $DEPLOYPATH
+    - /bin/cp _site/privacy-request.html $DEPLOYPATH
+    - /bin/cp _site/privacy.html $DEPLOYPATH
+    - /bin/cp _site/qualifications.html $DEPLOYPATH
+    - /bin/cp _site/robots.txt $DEPLOYPATH
+    - /bin/cp _site/service-worker.js $DEPLOYPATH
+    - /bin/cp _site/sitemap.xml $DEPLOYPATH
+    - /bin/cp _site/specialisms.html $DEPLOYPATH
+    - /bin/cp _site/stephen.html $DEPLOYPATH
+    - /bin/cp _site/tags.html $DEPLOYPATH
+    - /bin/cp _site/teletherapy.html $DEPLOYPATH
+    - /bin/cp _site/terms-and-conditions.html $DEPLOYPATH
+    - /bin/cp _site/testimonials.html $DEPLOYPATH
+    - /bin/cp _site/thanks.html $DEPLOYPATH
+    - /bin/cp _site/what-to-expect.html $DEPLOYPATH
