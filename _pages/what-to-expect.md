@@ -44,4 +44,4 @@ At the end of the session we give you verbal feedback there and then, and try as
 
 Once in a while we offer a walk-in drop in clinic at the [Well and Good Studios](https://www.wellandgoodstudios.com/) in Godalming town centre.  Join our Facebook page to keep updated on when these are happening.  
 
-Details of our terms and conditions are available [here](/terms-and-conditions/).
+Details of our terms and conditions are available [here](/terms-and-conditions.html).
