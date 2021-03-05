@@ -22,32 +22,32 @@ header:
 #  overlay_image: /assets/images/page-features/webp/60/about-abstract.jpg
 #  caption: "Photo credit: [**Steve Johnson**](https://www.pexels.com/@steve)"
 gallery:
-  - url: /assets/images/gallery/teletherapy-before-green-screen.jpg
-    image_path: /assets/images/gallery/teletherapy-before-green-screen.jpg
+  - url: /assets/images/gallery/optimised/teletherapy-before-green-screen.jpg
+    image_path: /assets/images/gallery/optimised/teletherapy-before-green-screen.jpg
     alt: "image of start of teletherapy"
     title: "Before teletherapy starts..."
-  - url: /assets/images/gallery/teletherapy-after-green-screen.jpg
-    image_path: /assets/images/gallery/teletherapy-after-green-screen.jpg
+  - url: /assets/images/gallery/optimised/teletherapy-after-green-screen.jpg
+    image_path: /assets/images/gallery/optimised/teletherapy-after-green-screen.jpg
     alt: "image of teletherapy with green screen magic"
     title: "...when the greenscreen goes on"
-  - url: /assets/images/gallery/my-home-office.jpg
-    image_path: /assets/images/gallery/my-home-office.jpg
+  - url: /assets/images/gallery/optimised/my-home-office.jpg
+    image_path: /assets/images/gallery/optimised/my-home-office.jpg
     alt: "image of my office"
     title: "My office"
-  - url: /assets/images/gallery/working-from-my-office.jpg
-    image_path: /assets/images/gallery/working-from-my-office.jpg
+  - url: /assets/images/gallery/optimised/working-from-my-office.jpg
+    image_path: /assets/images/gallery/optimised/working-from-my-office.jpg
     alt: "image of my 'other office' "
     title: "My 'other office'"
-  - url: /assets/images/gallery/group-session.jpg
-    image_path: /assets/images/gallery/group-session.jpg
+  - url: /assets/images/gallery/optimised/group-session.jpg
+    image_path: /assets/images/gallery/optimised/group-session.jpg
     alt: "image of therapy with 2 boys"
     title: "Therapy with 2 boys"
-  - url: /assets/images/gallery/therapy-games.jpg
-    image_path: /assets/images/gallery/therapy-games.jpg
+  - url: /assets/images/gallery/optimised/therapy-games.jpg
+    image_path: /assets/images/gallery/optimised/therapy-games.jpg
     alt: "image of therapy with a game I use"
     title: "Engaged therapy"
-  - url: /assets/images/gallery/prompt.jpg
-    image_path: /assets/images/gallery/prompt.jpg
+  - url: /assets/images/gallery/optimised/prompt.jpg
+    image_path: /assets/images/gallery/optimised/prompt.jpg
     alt: "image of PROMPT therapy"
     title: "Using PROMPT to help"
 

@@ -23,7 +23,7 @@ header:
 #  caption: "Photo credit: [**Steve Johnson**](https://www.pexels.com/@steve)"
 ---
 
-If you’re concerned about your child’s progress, particularly with the new school year looming, don’t feel you can’t do anything about it until this is well and truly over. Get in touch and we’ll arrange an assessment via ['teletherapy'](/teletherapy.html).
+If you’re concerned about your child’s progress and don’t feel you can’t do anything about it until this is well and truly over, please get in touch and we’ll arrange an assessment via ['teletherapy'](/teletherapy.html).
 
 **We are offering a FREE FACE-TO-FACE FOLLOW UP SESSION for all new telepractice assessments booked during this time.**
 

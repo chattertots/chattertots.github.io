@@ -15,7 +15,7 @@ var store = [,{
       "excerpt":"You can phone or email Chattertots with the links in the left hand menu or use our contact form below   Please don’t include any sensitive information that you don’t want to share with Chattertots.           Your Name:                Your phone number: \t\t\t           Your email:                How can we help you?:                        Send  ","url": "https://www.chattertots.net/contact.html"
     },{
       "title": "Covid-19",
-      "excerpt":"If you’re concerned about your child’s progress, particularly with the new school year looming, don’t feel you can’t do anything about it until this is well and truly over. Get in touch and we’ll arrange an assessment via ‘teletherapy’. We are offering a FREE FACE-TO-FACE FOLLOW UP SESSION for all...","url": "https://www.chattertots.net/covid.html"
+      "excerpt":"If you’re concerned about your child’s progress and don’t feel you can’t do anything about it until this is well and truly over, please get in touch and we’ll arrange an assessment via ‘teletherapy’. We are offering a FREE FACE-TO-FACE FOLLOW UP SESSION for all new telepractice assessments booked during...","url": "https://www.chattertots.net/covid.html"
     },{
       "title": "Fees",
       "excerpt":"Before committing to an assessment, you are welcome to contact me by phone or by email for a brief discussion of your concerns, and whether Speech and Language Therapy could help. There is no fee for general emails and telephone calls. Initial assessment Time : 1 – 1 ½ hour...","url": "https://www.chattertots.net/fees.html"
@@ -24,7 +24,7 @@ var store = [,{
       "excerpt":"                                                                                                                                                                                                                                                                                    ","url": "https://www.chattertots.net/gallery.html"
     },{
       "title": "Chattertots Speech & Language Therapy",
-      "excerpt":"COVID-19 - we are still operating! If you’re concerned about your child’s progress, particularly with the new school year looming, don’t feel you can’t do anything about it until this is well and truly over. Get in touch and we’ll arrange an assessment via ‘teletherapy’. Learn more Who ? Chattertots...","url": "https://www.chattertots.net/"
+      "excerpt":"COVID-19 - we are still operating! If you’re concerned about your child’s progress and don’t feel you can’t do anything about it until this is well and truly over, please get in touch and we’ll arrange an assessment via ‘teletherapy’. Learn more Who ? Chattertots is run by Louise Hibbert,...","url": "https://www.chattertots.net/"
     },{
       "title": "Louise Hibbert",
       "excerpt":"Louise is a fully qualified, specialist Speech and Language Therapist with 20 years experience. Education I completed my undergraduate degree in Linguistics in 1997. I then qualified as a Speech and Language Therapist in 2001, obtaining a Master of Medical Science (MMedSci) degree in Clinical Communication Studies from the University...","url": "https://www.chattertots.net/louise.html"
